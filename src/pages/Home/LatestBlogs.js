@@ -5,7 +5,7 @@ const LatestBlogs = () => {
   const blogs = [
     {
       img: "https://i.ibb.co/HXjwLPt/img1.jpg",
-      title: "Lemke Gutkowski and Bernhard knowing more about this",
+      title: "Lemke Gutkowski and Post knowing more about",
     },
     {
       img: "https://i.ibb.co/xFCR68N/img2.jpg",
@@ -18,7 +18,7 @@ const LatestBlogs = () => {
   ];
   return (
     <div className="bg-gray-100">
-      <div className="container py-10">
+      <div className="container pt-10 pb-16">
         <h1 className="text-4xl text-center pb-10 font-ubuntu font-bold text-gray-800">
           Latest Blogs Post
         </h1>

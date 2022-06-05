@@ -3,6 +3,7 @@ import Banner from "./Banner";
 import FeaturedProduct from "./FeaturedProduct";
 import HeroSection from "./HeroSection";
 import LatestBlogs from "./LatestBlogs";
+import NewLatter from "./NewLatter";
 
 const Home = () => {
   return (
@@ -10,7 +11,8 @@ const Home = () => {
       <Banner />
       <HeroSection />
       <FeaturedProduct />
-      <LatestBlogs/>
+      <LatestBlogs />
+      <NewLatter />
     </div>
   );
 };

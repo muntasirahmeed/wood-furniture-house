@@ -1,3 +1,4 @@
+import { ArrowRightIcon } from "@heroicons/react/solid";
 import React, { useEffect, useState } from "react";
 import Product from "./Product";
 
@@ -19,6 +20,9 @@ const FeaturedProduct = () => {
             <Product key={chair.id} chair={chair} />
           ))}
         </div>
+        <button className="mt-10  mx-auto bg-teal-600  py-2 px-8 rounded-md hover:bg-teal-700 transition duration-300 text-white font-semibold flex items-center">
+          Explore more Products <ArrowRightIcon className="w-5 h-r ml-3"/>
+        </button>
       </div>
     </div>
   );

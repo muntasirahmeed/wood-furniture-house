@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "single sited sofa",
+    "price": 150,
+    "img": "https://i.ibb.co/kcvJnj3/img1-removebg-preview.png"
+  },
+  {
+    "id": 2,
+    "name": "Comfrot Blue Chair",
+    "price": 160,
+    "img": "https://i.ibb.co/grqSn8R/img2-removebg-preview.png"
+  },
+  {
+    "id": 3,
+    "name": "Thin sited sofa",
+    "price": 130,
+    "img": "https://i.ibb.co/hDjshnp/img3-removebg-preview.png"
+  },
+  {
+    "id": 4,
+    "name": "White thin chair",
+    "price": 150,
+    "img": "https://i.ibb.co/Qfm4BdB/img4-removebg-preview.png"
+  },
+  {
+    "id": 5,
+    "name": "Best blue chair",
+    "price": 150,
+    "img": "https://i.ibb.co/Pg5hWGV/img5-removebg-preview.png"
+  },
+  {
+    "id": 6,
+    "name": "Male chair ",
+    "price": 150,
+    "img": "https://i.ibb.co/ZMfSjzJ/img6-removebg-preview.png"
+  }
+]
